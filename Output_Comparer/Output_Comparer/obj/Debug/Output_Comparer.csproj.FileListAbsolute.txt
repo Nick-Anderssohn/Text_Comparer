@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Output_Comparer\Output_Comparer\bin\Debug\Output_Comparer.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Output_Comparer\Output_Comparer\bin\Debug\Output_Comparer.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Output_Comparer\Output_Comparer\bin\Debug\Output_Comparer.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Output_Comparer\Output_Comparer\obj\Debug\Output_Comparer.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Output_Comparer\Output_Comparer\obj\Debug\Output_Comparer.Form1.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Output_Comparer\Output_Comparer\obj\Debug\Output_Comparer.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Output_Comparer\Output_Comparer\obj\Debug\Output_Comparer.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Output_Comparer\Output_Comparer\obj\Debug\Output_Comparer.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Output_Comparer\Output_Comparer\obj\Debug\Output_Comparer.pdb
